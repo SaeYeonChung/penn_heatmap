@@ -1,0 +1,5 @@
+eqfeed_callback({"type":"FeatureCollection","features":[
+{"type":"Feature", "properties":{"crime_type":"Robbery with Weapon", "location":"3500 BLOCK CHESTNUT STREET", "date":"1/12/18", "time":"5:45", "AM_PM":"PM"}, "geometry":{"type":"Point","coordinates":[39.954678, -75.194134]}}, 
+{"type":"Feature", "properties":{"crime_type":"Phone Snatch", "location":"3100 CHESTNUT STREET", "date":"1/28/18", "time":"7:40", "AM_PM":"PM"}, "geometry":{"type":"Point","coordinates":[39.953705, -75.185367]}}, 
+{"type":"Feature", "properties":{"crime_type":"Retail Robbery with Weapon", "location":"CVS-4314 Locust St", "date":"1/28/18", "time":"10:57", "AM_PM":"PM"}, "geometry":{"type":"Point","coordinates":[39.953546, -75.209648]}}, 
+]});
